@@ -1,0 +1,25 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Cache do Streamlit
+.streamlit/
+
+# Dados brutos
+data/raw/
+
+# Arquivos temporários do Excel
+~$*.xlsx
